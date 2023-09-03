@@ -1,0 +1,18 @@
+{
+    "name": "tayouzadev/routes",
+    "description": "Um roteador HTTP simples para aplicações em PHP em Apache2 com URL's amigáveis",
+    "type": "project",
+    "license": "MIT License",
+    "authors": [
+        {
+            "name": "tayouza",
+            "email": "tayouzadev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/"
+        }
+    }
+}
